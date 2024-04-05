@@ -17,6 +17,7 @@
 - 🔗 [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://youtu.be/f2EqECiTBL8?si=__eBFjKJD80aDu1f)
 - 🔗 [Express JS Full Course](https://www.youtube.com/watch?v=nH9E25nkk3I&list=PL9yf8qC8-JSRFegfI4lsaKYJFcfcEe-Uq&index=24&t=33s&pp=gAQBiAQB)
 - 🔗 [5 Serverless Node.js Tutorial - Neon Serverless Postgres, AWS Lambda, Next.js, Vercel](https://www.youtube.com/watch?v=cxgAN7T3rq8&list=PL9yf8qC8-JSRFegfI4lsaKYJFcfcEe-Uq&index=20&t=2402s&pp=gAQBiAQB)
+- 🔗 [Node.js / Express Course - Build 4 Projects](https://youtu.be/qwfE7fSVaZM?si=rrUjcclLtupnSh16)
  
 ---
 
