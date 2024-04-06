@@ -6,7 +6,7 @@
 
 👋 Hello, I'm Taher Al Kiyumi.
 
-✅  This is a complete node.js resources I collected from the web to help you get the gist of it.
+✅  This is a collection of node.js & express.js resources collected from the web to help you get the gist of it.
 
 ---
 
